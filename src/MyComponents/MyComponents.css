@@ -1,0 +1,90 @@
+.footerContent{
+    text-align: center;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    padding-top: 20px;
+    top: 100vh;
+    width: 100%;
+    background: rgba(4, 2, 44, 0.825);
+    /* background: rgb(45, 64, 236); */
+    /* border: rgb(71, 238, 168) 0.1px solid; */
+}
+h3{
+  text-decoration:underline;
+}
+
+.FormContainer{
+    width: 50%;
+    margin: auto;
+    margin-top: 70px;
+    top: 0;
+    justify-content:start;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: 16px;
+    /* border: solid green 2px; */
+  }
+
+  .form-text{
+    color: rgb(91, 155, 204);
+  }
+
+  h1{
+    text-align: center;
+    text-decoration:underline;   
+    /* color: aquamarine; */
+    /* border: solid greenyellow 2px;
+    width: 30%;
+    justify-content: center; */
+  }
+
+  #submit_button{
+    margin-top: 35px;
+    position: relative;
+    /* top: 20%; */
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+  .About_para{
+    position: relative;
+    font-size: 25px;
+    /* margin-top: 30px; */
+    height: 100vh;
+    width: 50vw;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    /* display: flex;
+    flex-direction: column; */
+    
+  }
+
+  #heading{
+    color: rgb(32, 197, 223);
+    text-decoration: underline;
+    font-size: 45px;
+  }
+
+  #para{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .container-fluid{
+    font-size: 20px;
+  }
+
+  .social-icons {
+    text-align: center;
+    font-family: "Open Sans";
+    
+    font-size: 1.5em;
+  }
+
+  a{
+    margin-left: 20px;
+  }
