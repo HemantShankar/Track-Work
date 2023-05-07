@@ -14,7 +14,7 @@ import {
 function App() {
   return (
     <BrowserRouter>
-      <Header title="To-do List" search={true} />
+      <Header title="Track-Work" search={false} />
       <Routes>
         <Route exact path="/" element={<Home />} />
         <Route exact path="/about" element={<About />} />
