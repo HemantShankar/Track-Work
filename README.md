@@ -1,6 +1,6 @@
 # To-do list
 
-This project is for people like me, who forgets the works that they have to do. This website keeps the track of the work and you can come anytime to see the list of works that you need to complete. You can update the task accooding to your requirement, you can anytime delete or add the task to the list. You can find the website on https://trackmywork.netlify.app/
+This project is for people like me, who forget the work and to whom it was assigned. This website keeps the track of the work and you can come anytime to see the list of works that are assigned. You can update the task according to your requirement, you can anytime delete or add the task to the list. You can find the website on https://trackmywork.netlify.app/
 
 # Frameworks
 
@@ -15,20 +15,24 @@ This website uses React and Bootstrap as the frameworks.
 ## Screenshots
 - User view of the website.
 
-![Screenshot (2)](https://user-images.githubusercontent.com/106507201/225316748-6c6db204-455a-4a44-97db-2c6ed043f7fb.png)
-
-![Screenshot (3)](https://user-images.githubusercontent.com/106507201/225316782-5cde7d0e-f3e5-4931-b2ae-34a30949f6b9.png)
+![2023-07-08](https://github.com/HemantShankar/Track-Work/assets/106507201/4f2b05b6-a1a9-4b9c-984f-e659c99ac371)
 
 
+![2023-07-08 (1)](https://github.com/HemantShankar/Track-Work/assets/106507201/d0be5613-4d61-466a-82dd-61df37dfcfb0)
 
-- Enter the task's title and description, then press submit.
 
-![Screenshot (4)](https://user-images.githubusercontent.com/106507201/225317372-a91637ab-ef60-4002-9f6a-6b4bf502117b.png)
+
+
+- Enter the task's title and person name, then press submit.
+
+![2023-07-08 (2)](https://github.com/HemantShankar/Track-Work/assets/106507201/463484d9-1738-4516-9987-7036111ee1af)
+
 
 - It would look like this. You can press delete button to remove the task from the list.
 
 
-![Screenshot (6)](https://user-images.githubusercontent.com/106507201/225317995-86e620d0-b919-433b-8d55-ccfeee4032a7.png)
+![2023-07-08 (3)](https://github.com/HemantShankar/Track-Work/assets/106507201/89e59ddd-d2f0-46c6-94f0-6fa429396c5b)
+
 
 ## Feedback
 
