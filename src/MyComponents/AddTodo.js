@@ -29,7 +29,7 @@ export const AddTodo = ({addTodo}) => {
                     <div id="titleDes" className="form-text">We'll show you all your work for the day.</div>
                 </div>
                 <div className="mb-1">
-                    <label htmlFor="des" className="form-label">Description of the task</label>
+                    <label htmlFor="des" className="form-label">Person Assigned</label>
                     <input type="text" value={des} onChange= {(e)=>{setDes(e.target.value)}} className="form-control" id="des" />
                 </div>
                 {/* <div className="mb-4 form-check">
