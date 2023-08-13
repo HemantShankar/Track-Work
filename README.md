@@ -4,7 +4,7 @@ This project is for people like me, who forget the work and to whom it was assig
 
 # Frameworks
 
-This website uses React and Bootstrap as the frameworks.
+This website uses React and Bootstrap as frameworks.
 
 ## Features!
 - Dynamic Background
